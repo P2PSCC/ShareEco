@@ -1,0 +1,5 @@
+Iteration;Started;Ended;Number of new platforms;Number of dead platforms;Total number of platforms;Sources;Data Excel File Name;Comments
+one;Jun-14;Aug-14;396;0;396;Mesh, CC, CaS;Iteration 1; This was the first iteration. There are also some inconsistencies with traffic data because the trafic was calculated not for the final set of platforms but for some more. I think after we generated all data, Marcus found few irrelevant platforms
+two;Oct-15;Dec-15;77;46;427;Mesh, CC, CaS;Iteration 2;
+three;Mar-16;May-16;31;12;446;Mesh, CC, tPWS;Iteration 3;To be precise, the whole process ended in July. But that was based on data crawled until May
+four;Jan-17;Jan-17;18;67;397;Mesh, CC, tPWS;;
